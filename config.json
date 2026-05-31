@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "clusterponnect",
+        "uuid": 14913500,
+        "checksum": "o7v5nm"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "production"
+    }
+}
